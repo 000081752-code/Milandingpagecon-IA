@@ -267,3 +267,19 @@ footer {
   nav { display: none; }
   header { justify-content: center; }
 }
+
+
+.btn-login{
+    background:#2563eb;
+    color:white;
+    padding:10px 20px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+    margin-left:15px;
+    transition:0.3s;
+}
+
+.btn-login:hover{
+    background:#1d4ed8;
+}
